@@ -46,7 +46,7 @@ crowd-panic-soc/
 Requires **Python 3.8+**.
 
 ```bash
-git clone https://github.com/[username]/crowd-panic-soc.git
+git clone https://github.com/yashmodi-iitd/crowd-panic-soc.git
 cd crowd-panic-soc
 pip install numpy matplotlib
 ```
