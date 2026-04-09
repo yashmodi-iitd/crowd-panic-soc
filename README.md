@@ -1,7 +1,6 @@
 # Crowd Panic as a Self-Organised Critical System
 
 > **Individual Project — Complexity Science**  
-> Submission deadline: April 10, 2026
 
 ---
 
